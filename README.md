@@ -20,3 +20,9 @@ pip install ipykernel
 - jupyter lab에 가상환경(llm_env) 등록하기
 python -m ipykernel install --user --name llm_env
 ```
+
+# 라이브러리 설치
+```
+- 파이썬과 mysql 연동하기 위한 라이브러리
+pip install PyMySQL
+```
